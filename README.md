@@ -6,22 +6,14 @@
 ---
 
 ## 🔍 Что тестировалось  
-- Веб-приложение Яндекс.Самокат
-- Мобильное приложение Яндекс.Самокат
-- API приложения Яндекс.Самокат
+- ✅ [Веб-приложение Яндекс.Самокат](https://docs.google.com/spreadsheets/d/1KwLonSwQqzK7rq8fkIyWPFwWHs7M1_GA5DyZKRfktyE/edit?gid=943703744#gid=943703744)  
+- ✅ [Мобильное приложение Яндекс.Самокат](https://docs.google.com/spreadsheets/d/1KwLonSwQqzK7rq8fkIyWPFwWHs7M1_GA5DyZKRfktyE/edit?gid=424948590#gid=424948590)  
+- ✅ [API приложения Яндекс.Самокат](https://docs.google.com/spreadsheets/d/1KwLonSwQqzK7rq8fkIyWPFwWHs7M1_GA5DyZKRfktyE/edit?gid=336872680#gid=336872680)  
 
 ---
 
 ## 🛠 Используемые инструменты  
 #DevTools #Charles #Postman #Swagger #Apidoc #AndroidStudio
-
----
-
-## 📄 Артефакты  
-
-- 📋 [Тест-кейсы](https://docs.google.com/...)  
-- ✅ [Чек-листы](https://docs.google.com/...)  
-- 🐞 [Баг-репорты](https://docs.google.com/...)  
 
 ---
 
